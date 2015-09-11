@@ -1,0 +1,31 @@
+GIMP Palette
+Name: uchicago2
+Columns: 3
+#
+0   0   0	   Black
+255 255 255	   White
+128   0   0        Maroon
+118 118 118	   Dark Gray
+214 214 206	   Light Gray
+248 164 41	   Yellow 1
+249 182 78	   Yellow 2
+198 130 32	   Yellow 3
+193 102 34	   Orange 1
+211 147 99	   Orange 2
+154 83 36	   Orange 3
+143  57  49	   Red 1
+186 123 118	   Red 2
+109 50 39	   Red 3
+145 171 90	   Light Green 1
+174 177 126	   Light Green 2
+101 109 51	   Light Green 3
+88  89  63	   Dark Green 1
+140 144 127	   Dark Green 2
+70 72 51	   Dark Green 3
+21  95 131	   Blue 1
+91 150 173	   Blue 2
+21 67 95	   Blue 3
+53  14  32	   Violet 1
+114 86 99	   Violet 2
+44 170 226	   Cyan
+236 0 140	   Magenta
